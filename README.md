@@ -9,12 +9,12 @@ In order to run the project please follow these steps:
 2. Go to appropriate directory:
     'cd Optimization_Python'
 3. Set up virtual environment as follows:
-   Mac (Tested on Mac): <br>
-     'python3 -m venv venv'
+   <br> Mac (Tested on Mac): 
+     'python3 -m venv venv'<br>
      'source venv/bin/activate'
    <br> 
   Windows (Not tested on windows):
-     'python -m venv venv'
+     'python -m venv venv'<br>
      'venv\Scripts\activate'
 5. Install dependencies:
      'pip install -r requirements.txt'
