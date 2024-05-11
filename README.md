@@ -9,7 +9,7 @@ In order to run the project please follow these steps:
 2. Go to appropriate directory:
     'cd Optimization_Python'
 3. Set up virtual environment as follows:
-   Mac (Tested on Mac):
+   Mac (Tested on Mac): <br>
      'python3 -m venv venv'
      'source venv/bin/activate'
    <br> 
