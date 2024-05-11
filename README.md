@@ -12,12 +12,13 @@ In order to run the project please follow these steps:
    Mac (Tested on Mac):
      'python3 -m venv venv'
      'source venv/bin/activate'
+   <br> 
   Windows (Not tested on windows):
      'python -m venv venv'
      'venv\Scripts\activate'
-4. Install dependencies:
+5. Install dependencies:
      'pip install -r requirements.txt'
-5. Run the project:
+6. Run the project:
      'python -m tests.test_unconstrained_min'
 
 
